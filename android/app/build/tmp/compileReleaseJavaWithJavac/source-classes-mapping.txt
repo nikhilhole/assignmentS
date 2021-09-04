@@ -1,0 +1,9 @@
+com/segwitz/MainActivity.java
+ com.segwitz.MainActivity
+com/segwitz/MainApplication.java
+ com.segwitz.MainApplication
+ com.segwitz.MainApplication$1
+com/segwitz/BuildConfig.java
+ com.segwitz.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
